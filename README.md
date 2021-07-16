@@ -21,7 +21,7 @@ let who = {
   "versionType": "beta"
 };
 ~~~
-https://www.linkedin.com/in/gerordu
+
 > I chose to declare a variable because I support the purpose of always be better than myself's previous versions. So it means we're always changing (like a snake 🐍).
 
 [![GitHub Follow](https://img.shields.io/github/followers/gerordu?color=white&logo=github&logoColor=white&style=for-the-badge&labelColor=%23171515&label=follow)](https://github.com/gerordu)
